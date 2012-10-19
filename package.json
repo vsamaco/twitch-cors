@@ -5,7 +5,7 @@
   "name": "twitch-cors",
   "description": "CORS support for Twitch API",
   "version": "0.0.1",
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/vsamaco/Twitch-CORS.git",
   "repository": {
     "type": "git",
     "url": ""
@@ -23,6 +23,5 @@
   },
   "devDependencies": {},
   "_id": "twitch-cors@0.0.1",
-  "readme": "ERROR: No README.md file found!",
   "_from": "twitch-cors"
 }
