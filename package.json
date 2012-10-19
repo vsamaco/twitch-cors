@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Vincent Samaco"
+  },
+  "name": "twitch-cors",
+  "description": "CORS support for Twitch API",
+  "version": "0.0.1",
+  "homepage": "https://github.com/",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">= 0.2.0"
+  },
+  "engines": {
+    "node": "~0.6.10 || 0.8 || 0.9"
+  },
+  "dependencies": {
+    "request": "2.11.4",
+    "express": "3.0.0rc5"
+  },
+  "devDependencies": {},
+  "_id": "twitch-cors@0.0.1",
+  "readme": "ERROR: No README.md file found!",
+  "_from": "twitch-cors"
+}
