@@ -15,10 +15,11 @@
     "node": "~0.6.10 || 0.8 || 0.9"
   },
   "dependencies": {
-    "request": "2.11.4",
-    "express": "3.0.0rc5"
+    "request": "~2.11.4",
+    "express": "~3.0.0"
   },
   "devDependencies": {},
+  "readme": "CORS support for Twitch API",
   "_id": "twitch-cors@0.0.1",
   "_from": "twitch-cors"
 }
