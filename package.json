@@ -5,7 +5,7 @@
   "name": "twitch-cors",
   "description": "CORS support for Twitch API",
   "version": "0.0.1",
-  "homepage": "https://github.com/vsamaco/Twitch-CORS.git",
+  "homepage": "https://github.com/vsamaco/twitch-cors.git",
   "repository": {
     "type": "git",
     "url": ""
